@@ -1,5 +1,5 @@
 ---
-title: Ghost Frames Privacy Policy
+title: Privacy Policy
 ---
 
 # Ghost Frames Privacy Policy
@@ -41,4 +41,4 @@ If this policy changes, the updated version will be posted on this page with a n
 
 ## Contact
 
-If you have any questions about this policy, contact [hello.ghostframes@yahoo.com](mailto:hello.ghostframes@yahoo.com).
+If you have any questions about this policy, you can reach us through the [Ghost Frames support page](support/).
